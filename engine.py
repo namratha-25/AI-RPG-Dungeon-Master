@@ -19,9 +19,11 @@ import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
-MODELS = os.path.join(ROOT, "models")
+
+ROOT = os.path.dirname(os.path.abspath(__file__))
+MODELS = ROOT
 SAVE_PATH = os.path.join(ROOT, "savegame.json")
+
 
 LOCATIONS = ["tavern", "dungeon", "castle", "forest", "village", "mountain", "market"]
 CATEGORY = {"attack": "combat", "intimidate": "combat", "steal": "stealth", "flee": "stealth",
