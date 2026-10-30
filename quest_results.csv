@@ -1,0 +1,4 @@
+method,precision@3,roc_auc,accuracy
+Random Forest (ML),0.5489,0.69,0.6572
+Content-based (pref match),0.5278,0.6987,
+Random baseline,0.41,0.4857,

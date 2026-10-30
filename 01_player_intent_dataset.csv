@@ -1,0 +1,1601 @@
+player_text,location,player_level,health_pct,intent
+I fire an arrow at the bandit,forest,30,75,attack
+I appeal to the honor of the wizard carefully,mountain,20,43,persuade
+I try to convince the king to join my cause,dungeon,19,20,persuade
+I appeal to the honor of the goblin,market,11,49,persuade
+Search the chest,castle,10,91,explore
+Steal from the king carefully,forest,21,95,steal
+Look around the ruins in the dark,mountain,12,91,explore
+Sneak and rob the bandit carefully,mountain,15,72,steal
+I rob the innkeeper while no one looks,forest,21,67,steal
+I open the chest and look inside,mountain,24,34,explore
+Run! now,castle,25,10,flee
+Win over the priest with kind words,market,20,44,persuade
+I search the door carefully,village,14,73,explore
+"Can we reach an agreement, the innkeeper?",dungeon,8,33,negotiate
+I protect the bandit from harm now,tavern,15,72,help
+Investigate the area,mountain,9,12,explore
+I attack the priest slowly,forest,6,49,attack
+Convince the wizard to trust me in the dark,tavern,20,65,persuade
+I fire an arrow at the king quickly,village,4,21,attack
+I back off and run for my life,market,9,7,flee
+"Can we reach an agreement, the king?",village,15,47,negotiate
+Scare the innkeeper into talking slowly,mountain,14,32,intimidate
+Smash the villager with my axe without a word,village,21,16,attack
+Sneak and rob the bandit,mountain,30,27,steal
+Make a deal with the dragon now,mountain,7,96,negotiate
+Save the bandit from danger without a word,market,9,46,help
+I menace the dragon until they talk,tavern,16,50,intimidate
+Steal from the wizard in the dark,castle,8,5,steal
+I menace the merchant until they talk,tavern,12,62,intimidate
+I offer the guard my food and aid without a word,mountain,14,18,help
+Threaten the dragon! quickly,village,28,71,intimidate
+I talk the king into letting us pass,mountain,4,46,persuade
+I draw my sword and strike the priest slowly,castle,29,55,attack
+I swipe the jewel and hide it,tavern,22,18,steal
+I heal the guard with a potion,forest,15,65,help
+I charm the guard with kind words,tavern,11,55,persuade
+I talk the priest into letting us pass,market,13,15,persuade
+I assist the villager with the wounds slowly,mountain,25,97,help
+I cast a fireball at the guard with my sword,market,5,92,attack
+I glare at the dragon and growl a warning now,tavern,6,21,help
+Convince the king to trust me,market,16,75,persuade
+I scare the villager with my blade drawn quickly,village,18,96,intimidate
+Investigate the area,castle,4,9,explore
+I explore beyond the chest,castle,25,60,explore
+I talk the bandit into letting us pass again,market,26,85,persuade
+I investigate the tower in the dark,dungeon,13,63,explore
+"Name your price, the goblin now",dungeon,9,81,negotiate
+I demand the priest obey me or suffer slowly,forest,20,24,intimidate
+I convince the innkeeper to join my cause in the dark,village,21,53,persuade
+I reason with the dragon calmly with my sword,forest,29,74,persuade
+"Can we reach an agreement, the priest?",mountain,28,95,negotiate
+Fight the wizard to the death with my sword,village,1,59,attack
+I search the ruins,dungeon,18,18,explore
+I scare the dragon with my blade drawn quickly,market,24,24,intimidate
+I rescue the goblin,market,16,35,help
+Pickpocket the priest quietly,tavern,22,21,steal
+"I get out of here, away from the priest again",tavern,22,86,flee
+Warn the dragon that they will suffer,mountain,1,70,intimidate
+Run!,castle,14,6,flee
+I sneak behind the priest and pick the pocket again,village,9,79,steal
+Convince the dragon to trust me,market,21,91,persuade
+Convince the merchant to trust me again,mountain,9,68,persuade
+Threaten the guard! again,village,9,86,intimidate
+Make a deal with the bandit,mountain,26,47,negotiate
+I attack the merchant,tavern,3,86,attack
+Look around the tower quickly,dungeon,23,63,explore
+Run! carefully,market,12,13,flee
+"Please listen to reason, the goblin with my sword",mountain,14,18,persuade
+"Can we reach an agreement, the innkeeper?",forest,29,20,negotiate
+I offer the innkeeper a fair deal slowly,market,9,13,negotiate
+I try to steal the gold from the king,village,26,25,steal
+I glare at the bandit and growl a warning now,castle,3,59,intimidate
+I try to steal the gold from the innkeeper,dungeon,24,37,steal
+Escape from the king in the dark,forest,27,17,flee
+I scare the innkeeper with my blade drawn,forest,12,52,intimidate
+Kill the guard,dungeon,15,21,attack
+Aid the guard and share my supplies slowly,mountain,22,19,help
+I propose a trade with the bandit with my sword,market,13,34,negotiate
+I really appeal to the honor of the dragon without a word,mountain,16,49,persuade
+"How much for that, the dragon?",mountain,25,100,negotiate
+"Heal the innkeeper, kind friend now",tavern,15,50,help
+Scare the goblin into talking,dungeon,6,52,intimidate
+I glare at the wizard and growl a warning now,dungeon,17,67,intimidate
+I examine the tower closely in the dark,castle,28,86,explore
+I sneak behind the innkeeper and pick the pocket,castle,18,16,steal
+Talk the goblin into helping us,forest,30,93,persuade
+I try to protect the goblin from harm now,village,14,45,help
+Pickpocket the innkeeper quietly quickly,village,30,82,steal
+I back off and run for my life,mountain,19,80,flee
+I open the chest and look inside,market,20,45,explore
+Threaten the priest!,castle,1,16,intimidate
+Steal from the innkeeper without a word,market,8,44,steal
+I fire an arrow at the bandit,forest,25,27,attack
+Attack the goblin! quickly,village,24,5,attack
+I appeal to the honor of the wizard again,dungeon,26,47,persuade
+I hit the innkeeper hard in the dark,village,21,29,attack
+I offer the villager a fair deal,castle,14,43,negotiate
+Fight the innkeeper to the death in the dark,tavern,13,82,attack
+"I get out of here, away from the bandit with my sword",tavern,26,72,flee
+I help the guard carry the load,tavern,11,12,help
+Smash the merchant with my axe quickly,forest,13,90,attack
+I menace the wizard until they talk with my sword,forest,10,90,intimidate
+"Hand it over or else, the innkeeper",mountain,26,28,intimidate
+Sneak and rob the dragon,dungeon,24,61,steal
+I talk the king into letting us pass,forest,21,91,persuade
+I rob the king while no one looks,castle,29,79,steal
+"I get out of here, away from the king",tavern,2,28,flee
+Run!,mountain,4,66,flee
+I investigate the forest path in the dark,dungeon,13,19,explore
+Fight the dragon to the death again,tavern,10,44,attack
+I walk into the cave to look around again,market,15,87,explore
+Aid the merchant and share my supplies,market,22,23,help
+I try to propose a trade with the guard,mountain,1,19,negotiate
+Let me slash the bandit down,dungeon,15,5,attack
+I rob the innkeeper while no one looks without a word,mountain,8,93,steal
+I run away from the priest,dungeon,10,57,flee
+"Please listen to reason, the bandit carefully",market,1,75,persuade
+"Take the gold and run, unseen",dungeon,25,35,steal
+I cast a fireball at the dragon again,dungeon,24,53,attack
+I hit the merchant hard with my sword,market,18,91,attack
+I cast a fireball at the king,forest,18,17,attack
+"Take the gold and run, unseen again",mountain,27,85,steal
+I try to steal the gold from the bandit with my sword,mountain,18,30,steal
+I really appeal to the honor of the priest,castle,16,46,persuade
+I explore beyond the tower without a word,castle,29,30,explore
+I propose a trade with the dragon,market,27,75,negotiate
+I offer the bandit my food and aid,forest,24,96,help
+Get away from the dragon,market,1,24,flee
+I investigate the chest,market,27,65,explore
+I examine the cave closely,village,18,94,explore
+I run away from the guard now,castle,10,70,flee
+Smash the guard with my axe carefully,tavern,11,31,attack
+Investigate the area,tavern,2,5,explore
+Search the door in the dark,tavern,9,35,explore
+Win over the villager with kind words,market,18,11,persuade
+Look around the door,mountain,19,43,explore
+I run away from the dragon now,forest,23,76,flee
+I rob the goblin while no one looks,castle,19,95,steal
+Look around the forest path slowly,dungeon,20,44,explore
+I attack the dragon,mountain,11,56,attack
+I flee the scene carefully,tavern,24,36,flee
+"Retreat now, back away",forest,11,17,flee
+"Can we reach an agreement, the guard?",market,7,20,negotiate
+I rob the guard while no one looks,tavern,3,49,steal
+Warn the innkeeper that they will suffer again,market,12,50,intimidate
+"Please listen to reason, the villager with my sword",tavern,20,64,persuade
+I fire an arrow at the bandit carefully,market,23,5,attack
+"I get out of here, away from the merchant slowly",forest,24,65,flee
+Check inside the forest path slowly,mountain,20,62,explore
+I attack the bandit with my sword,dungeon,18,8,attack
+I threaten the merchant to hand it over,mountain,20,21,intimidate
+"Take the gold and run, unseen",castle,5,74,steal
+I run away from the wizard carefully,village,14,47,flee
+Pickpocket the villager quietly,castle,1,90,steal
+I rob the dragon while no one looks,mountain,6,17,steal
+Win over the wizard with kind words now,village,29,57,persuade
+I flee the scene,tavern,10,73,flee
+I threaten the goblin to hand it over in the dark,market,19,39,intimidate
+Look around the forest path again,forest,19,83,explore
+I rob the merchant while no one looks,market,1,76,steal
+I demand the merchant obey me or suffer in the dark,forest,20,32,intimidate
+Sneak and rob the king now,dungeon,18,21,steal
+Steal from the guard,village,24,63,steal
+Kill the goblin without a word,castle,19,89,attack
+"Hand it over or else, the priest quickly",forest,27,26,intimidate
+I heal the dragon with a potion again,dungeon,16,33,help
+I rescue the bandit,market,21,74,help
+I really hit the goblin hard carefully,mountain,11,36,attack
+I appeal to the honor of the villager again,mountain,25,21,persuade
+Investigate the area,dungeon,10,56,explore
+Steal from the innkeeper quickly,castle,20,76,explore
+Talk the dragon into helping us,dungeon,14,83,persuade
+Kill the king,dungeon,16,56,attack
+I appeal to the honor of the king now,market,4,77,persuade
+Smash the dragon with my axe,dungeon,26,18,attack
+I glare at the dragon and growl a warning carefully,market,14,23,intimidate
+Escape from the king now,mountain,12,84,flee
+I quietly lift the keys from the king without a word,village,9,45,steal
+I quietly lift the keys from the dragon,tavern,16,20,steal
+I try to sneak behind the innkeeper and pick the pocket in the dark,dungeon,24,67,steal
+"Please listen to reason, the villager again",forest,11,25,persuade
+I walk into the door to look around,castle,7,15,explore
+I walk into the chest to look around,tavern,8,10,explore
+Get away from the goblin,tavern,28,72,flee
+I fire an arrow at the dragon,tavern,29,77,attack
+I try to fire an arrow at the bandit,castle,15,96,attack
+I draw my sword and strike the priest again,market,9,98,attack
+Warn the villager that they will suffer,dungeon,6,99,intimidate
+I fire an arrow at the villager with my sword,mountain,19,41,attack
+I scare the priest with my blade drawn slowly,castle,14,32,intimidate
+Aid the innkeeper and share my supplies now,castle,5,53,help
+I assist the goblin with the wounds,dungeon,16,84,help
+I really menace the dragon until they talk,market,4,93,intimidate
+I glare at the priest and growl a warning without a word,castle,23,19,help
+Win over the king with kind words slowly,market,27,99,persuade
+I rob the innkeeper while no one looks now,dungeon,17,28,steal
+Threaten the priest! again,village,12,16,intimidate
+Smash the villager with my axe,forest,28,45,attack
+Warn the dragon that they will suffer without a word,mountain,22,34,intimidate
+I offer the guard my food and aid,village,5,65,help
+"Heal the goblin, kind friend with my sword",market,7,47,help
+"Let us make a bargain, the dragon now",dungeon,25,44,negotiate
+"Hand it over or else, the guard",village,5,46,intimidate
+Steal from the merchant,dungeon,22,57,steal
+I sneak behind the priest and pick the pocket,tavern,9,10,steal
+I cast a fireball at the priest,village,12,81,attack
+I explore beyond the door without a word,dungeon,29,24,explore
+Let me slash the villager down,village,11,95,attack
+"Heal the priest, kind friend",dungeon,30,47,help
+I rescue the king slowly,tavern,3,74,help
+I draw my sword and strike the wizard,castle,5,87,explore
+"What will you pay me, the priest?",dungeon,2,27,negotiate
+Run! carefully,dungeon,8,56,flee
+I protect the wizard from harm,village,29,17,help
+Pickpocket the guard quietly carefully,castle,24,16,steal
+Get away from the dragon,castle,25,26,flee
+I appeal to the honor of the priest,village,15,55,persuade
+Run!,forest,28,45,flee
+Threaten the wizard! in the dark,tavern,15,52,intimidate
+"Hand it over or else, the king",tavern,28,46,intimidate
+I examine the forest path closely,mountain,21,94,explore
+I demand the goblin obey me or suffer,castle,15,49,intimidate
+Escape from the innkeeper slowly,dungeon,7,90,flee
+Save the innkeeper from danger,castle,9,36,help
+Escape from the villager,mountain,24,50,flee
+"Please listen to reason, the goblin slowly",tavern,5,11,persuade
+I search the tower,forest,25,31,explore
+"Name your price, the goblin carefully",market,23,21,negotiate
+Pickpocket the merchant quietly carefully,market,8,56,steal
+Convince the priest to trust me,forest,15,63,persuade
+I open the forest path and look inside,village,1,60,explore
+I search the cave,castle,30,15,explore
+Save the dragon from danger,tavern,27,20,help
+Pickpocket the king quietly,dungeon,30,58,steal
+"Retreat now, back away in the dark",tavern,2,85,flee
+Let me slash the bandit down carefully,mountain,24,18,attack
+I quietly lift the keys from the priest without a word,dungeon,1,46,steal
+Warn the bandit that they will suffer,mountain,26,85,intimidate
+I really propose a trade with the guard,market,16,74,negotiate
+I appeal to the honor of the guard,castle,6,23,persuade
+Get away from the king,tavern,30,20,flee
+I examine the door closely without a word,market,3,44,explore
+Look around the door carefully,dungeon,28,56,explore
+I talk the merchant into letting us pass now,forest,13,94,persuade
+I offer the villager a fair deal slowly,forest,24,20,negotiate
+"Name your price, the priest",mountain,26,88,negotiate
+"Retreat now, back away",dungeon,29,15,flee
+I assist the king with the wounds,market,5,76,help
+"Retreat now, back away now",forest,26,42,flee
+I charm the priest with kind words again,mountain,24,23,persuade
+I rob the king while no one looks,castle,11,39,steal
+I protect the king from harm without a word,tavern,9,54,help
+I talk the goblin into letting us pass,market,7,37,persuade
+I really propose a trade with the merchant,dungeon,10,59,negotiate
+I run away from the king again,castle,29,88,flee
+Smash the wizard with my axe,dungeon,9,25,attack
+I try to run away from the king again,forest,22,15,flee
+Aid the wizard and share my supplies with my sword,castle,7,6,help
+I scare the villager with my blade drawn,castle,6,91,intimidate
+I assist the villager with the wounds now,dungeon,12,11,help
+I hit the guard hard with my sword,mountain,2,65,attack
+I open the ruins and look inside,village,11,21,explore
+Search the cave again,mountain,26,71,explore
+I swipe the jewel and hide it again,mountain,7,48,steal
+I protect the priest from harm,castle,9,64,help
+I examine the ruins closely now,village,19,12,explore
+I convince the guard to join my cause without a word,dungeon,24,27,persuade
+I charm the king with kind words,tavern,19,74,persuade
+I menace the king until they talk,forest,13,54,intimidate
+I heal the innkeeper with a potion with my sword,forest,18,22,help
+Investigate the area in the dark,forest,22,8,explore
+"Let us make a bargain, the priest",dungeon,10,42,negotiate
+Aid the king and share my supplies again,dungeon,23,52,help
+Talk the priest into helping us carefully,village,18,77,persuade
+Threaten the priest!,forest,10,24,intimidate
+I walk into the tower to look around without a word,forest,28,91,explore
+I back off and run for my life in the dark,forest,18,66,flee
+I search the tower slowly,castle,16,86,explore
+I threaten the guard to hand it over,castle,4,21,intimidate
+I try to steal the gold from the villager quickly,tavern,26,14,attack
+"Let us make a bargain, the bandit slowly",mountain,4,6,negotiate
+Escape from the innkeeper,mountain,20,18,flee
+"Heal the innkeeper, kind friend without a word",mountain,11,76,help
+"How much for that, the guard?",forest,20,28,negotiate
+I retreat and escape through the ruins,mountain,19,62,flee
+Save the dragon from danger with my sword,forest,5,84,help
+"I try to get out of here, away from the king",market,16,6,flee
+I appeal to the honor of the wizard,mountain,3,11,persuade
+Convince the bandit to trust me with my sword,village,23,73,persuade
+Let me slash the wizard down again,market,30,17,attack
+Please help the goblin carefully,forest,23,14,help
+"Can we reach an agreement, the villager?",castle,15,93,negotiate
+Fight the guard to the death,village,21,87,attack
+Sneak and rob the guard,forest,1,86,steal
+I help the goblin carry the load again,market,11,89,help
+I heal the merchant with a potion carefully,forest,5,25,help
+I examine the ruins closely with my sword,village,10,67,explore
+Convince the king to trust me now,forest,1,41,persuade
+I convince the merchant to join my cause in the dark,forest,23,14,persuade
+I fire an arrow at the villager without a word,village,24,80,attack
+I really retreat and escape through the forest path,forest,17,19,flee
+Talk the guard into helping us quickly,forest,1,51,persuade
+"Can we reach an agreement, the merchant? carefully",tavern,24,53,negotiate
+Kill the innkeeper,market,8,89,attack
+I flee the scene slowly,castle,16,92,flee
+"Hand it over or else, the dragon now",mountain,21,49,intimidate
+"Let us make a bargain, the bandit now",forest,14,67,negotiate
+Steal from the villager with my sword,mountain,2,59,steal
+I walk into the forest path to look around,dungeon,28,94,explore
+I propose a trade with the dragon,forest,5,15,negotiate
+I try to back off and run for my life,village,8,29,flee
+I really hit the dragon hard carefully,dungeon,28,41,attack
+Check inside the cave now,castle,23,62,explore
+Warn the priest that they will suffer,forest,3,78,intimidate
+I offer the king my food and aid quickly,mountain,3,94,help
+Search the forest path,tavern,2,69,explore
+I appeal to the honor of the wizard,village,30,44,persuade
+Convince the bandit to trust me without a word,castle,6,30,persuade
+I reason with the priest calmly in the dark,forest,12,53,persuade
+Kill the wizard,market,8,69,attack
+Threaten the wizard!,market,17,21,intimidate
+I want to haggle with the goblin carefully,market,12,74,negotiate
+Steal from the goblin,forest,3,68,steal
+Look around the forest path,tavern,18,37,explore
+I heal the king with a potion carefully,castle,27,29,help
+I investigate the forest path quickly,castle,10,36,explore
+I quietly lift the keys from the king slowly,forest,22,63,steal
+I charge at the guard and swing in the dark,mountain,29,90,attack
+I heal the villager with a potion carefully,forest,9,85,help
+I attack the goblin now,castle,19,36,attack
+Investigate the area,forest,8,97,explore
+I sneak behind the dragon and pick the pocket,forest,17,99,steal
+I convince the guard to join my cause,tavern,16,12,persuade
+I offer the villager my food and aid,village,16,88,help
+Attack the guard! carefully,market,1,23,attack
+Warn the wizard that they will suffer in the dark,tavern,3,24,intimidate
+Sneak and rob the dragon,village,9,71,steal
+Attack the wizard! quickly,castle,23,25,attack
+Investigate the area slowly,castle,18,65,explore
+I glare at the priest and growl a warning quickly,dungeon,9,31,intimidate
+"Let us trade, the wizard",tavern,13,76,negotiate
+Fight the merchant to the death without a word,castle,15,84,attack
+Escape from the goblin again,dungeon,27,84,flee
+I really try to steal the gold from the innkeeper quickly,mountain,1,74,steal
+Attack the priest!,tavern,17,86,intimidate
+Save the king from danger now,mountain,27,99,help
+Look around the tower now,forest,28,70,explore
+Win over the villager with kind words now,forest,21,34,persuade
+Win over the villager with kind words again,market,14,71,persuade
+I try to scare the guard with my blade drawn with my sword,dungeon,30,30,intimidate
+Smash the wizard with my axe,tavern,17,6,attack
+I try to steal the gold from the dragon slowly,dungeon,19,62,steal
+"How much for that, the bandit?",forest,17,76,negotiate
+I rob the goblin while no one looks,market,6,56,steal
+I really threaten the goblin to hand it over without a word,mountain,4,14,intimidate
+"How much for that, the wizard?",tavern,2,71,negotiate
+I talk the merchant into letting us pass,forest,10,93,persuade
+"Heal the priest, kind friend",village,12,100,help
+Look around the door,tavern,2,51,explore
+I open the tower and look inside,village,9,80,explore
+I talk the priest into letting us pass,mountain,16,98,persuade
+I convince the bandit to join my cause,tavern,27,84,persuade
+I walk into the ruins to look around in the dark,forest,12,54,explore
+"Take the gold and run, unseen slowly",dungeon,12,53,steal
+"Hand it over or else, the priest quickly",mountain,25,82,intimidate
+Run!,market,28,94,flee
+I glare at the innkeeper and growl a warning with my sword,dungeon,2,65,intimidate
+I really rescue the priest again,market,2,56,help
+I talk the villager into letting us pass again,tavern,10,85,persuade
+Pickpocket the guard quietly,castle,17,82,steal
+I quietly lift the keys from the bandit without a word,market,25,29,steal
+I really help the bandit carry the load,market,18,21,help
+"Please listen to reason, the goblin",tavern,16,37,persuade
+Win over the dragon with kind words quickly,market,29,33,persuade
+I run away from the merchant,forest,21,100,flee
+Strike the merchant down slowly,tavern,23,28,attack
+I flee the scene slowly,tavern,30,41,flee
+I charge at the innkeeper and swing,mountain,8,71,attack
+I try to charm the priest with kind words,mountain,22,23,persuade
+Steal from the bandit carefully,dungeon,26,78,steal
+I offer the wizard my food and aid again,castle,12,44,help
+I menace the innkeeper until they talk again,village,15,8,intimidate
+Kill the king again,village,28,83,attack
+I run away from the goblin carefully,forest,17,84,flee
+I menace the goblin until they talk,market,18,19,intimidate
+I investigate the cave now,village,15,84,explore
+I threaten the bandit to hand it over with my sword,dungeon,25,41,intimidate
+"How much for that, the wizard?",mountain,25,89,negotiate
+I quietly lift the keys from the priest,dungeon,13,27,steal
+Talk the wizard into helping us,forest,17,15,persuade
+Win over the goblin with kind words without a word,castle,17,82,persuade
+I open the chest and look inside,forest,14,32,explore
+I search the door,village,21,76,explore
+Smash the bandit with my axe,village,9,80,attack
+Aid the merchant and share my supplies in the dark,castle,12,10,help
+"Hand it over or else, the priest again",castle,29,88,intimidate
+I appeal to the honor of the bandit in the dark,mountain,16,90,persuade
+Sneak and rob the goblin,castle,8,84,steal
+Make a deal with the villager,castle,17,54,negotiate
+"I get out of here, away from the villager now",mountain,24,34,flee
+"Let us trade, the goblin without a word",tavern,11,58,negotiate
+I try to steal the gold from the king,dungeon,30,13,steal
+I rob the innkeeper while no one looks,dungeon,7,79,steal
+"How much for that, the king? quickly",tavern,3,59,negotiate
+Warn the wizard that they will suffer,market,14,67,intimidate
+I reason with the bandit calmly quickly,tavern,3,69,persuade
+I cast a fireball at the villager now,mountain,7,77,attack
+Get away from the bandit,forest,4,80,flee
+Kill the bandit now,village,17,60,attack
+I threaten the goblin to hand it over again,mountain,26,12,intimidate
+I run away from the bandit,castle,1,52,flee
+Run! now,dungeon,24,22,flee
+Scare the guard into talking,tavern,15,58,explore
+"Retreat now, back away quickly",market,19,10,flee
+I menace the priest until they talk,mountain,25,55,intimidate
+"Heal the merchant, kind friend slowly",castle,20,96,help
+I heal the merchant with a potion now,forest,14,77,help
+"How much for that, the merchant? with my sword",mountain,19,41,negotiate
+"Take the gold and run, unseen with my sword",mountain,29,46,steal
+"How much for that, the guard? in the dark",forest,13,44,negotiate
+"Please listen to reason, the villager",village,27,48,persuade
+Attack the king! without a word,dungeon,10,55,attack
+Run! now,forest,10,26,flee
+Search the forest path in the dark,tavern,18,64,explore
+I protect the innkeeper from harm slowly,market,17,45,help
+Smash the king with my axe slowly,market,9,97,attack
+Run!,forest,17,19,flee
+"Heal the king, kind friend carefully",village,24,100,steal
+Run!,village,13,61,flee
+Check inside the tower,mountain,27,93,explore
+I rescue the king now,market,26,26,negotiate
+I want to haggle with the priest in the dark,castle,1,96,negotiate
+I offer the priest my food and aid,mountain,16,23,help
+I quietly lift the keys from the dragon quickly,village,30,92,steal
+Let me slash the innkeeper down,dungeon,5,60,attack
+Scare the merchant into talking,market,16,43,intimidate
+"Please listen to reason, the bandit",village,25,31,persuade
+Please help the wizard in the dark,market,5,24,help
+I retreat and escape through the forest path again,tavern,15,84,flee
+"Heal the merchant, kind friend without a word",forest,8,31,help
+Please help the guard,mountain,23,77,help
+Sneak and rob the goblin,market,22,78,steal
+"Hand it over or else, the guard now",village,15,15,intimidate
+Escape from the goblin carefully,village,12,50,flee
+Talk the guard into helping us now,mountain,19,92,persuade
+Fight the dragon to the death in the dark,forest,14,42,attack
+Save the priest from danger,forest,7,90,help
+Search the ruins,forest,19,23,explore
+I want to haggle with the merchant,dungeon,5,89,negotiate
+"Take the gold and run, unseen in the dark",dungeon,10,6,steal
+"I get out of here, away from the guard",village,11,5,flee
+Run! now,castle,24,83,flee
+I convince the goblin to join my cause carefully,castle,27,21,persuade
+Scare the villager into talking without a word,tavern,19,29,intimidate
+"Let us trade, the priest quickly",market,2,69,negotiate
+"Retreat now, back away quickly",market,12,73,flee
+I retreat and escape through the cave,mountain,9,100,flee
+I try to steal the gold from the dragon now,village,6,31,steal
+"Retreat now, back away",village,17,14,flee
+Please help the merchant,tavern,24,8,help
+Search the ruins,castle,20,8,explore
+Please help the wizard again,village,25,16,help
+Look around the door again,tavern,24,99,explore
+I hit the priest hard,dungeon,3,11,attack
+"Let us make a bargain, the guard",village,17,99,negotiate
+I examine the chest closely,forest,19,94,attack
+Win over the villager with kind words quickly,tavern,5,87,persuade
+"Let us trade, the innkeeper with my sword",tavern,7,67,negotiate
+Talk the merchant into helping us with my sword,dungeon,10,93,persuade
+I reason with the wizard calmly,tavern,7,15,negotiate
+Threaten the bandit!,village,5,86,intimidate
+Save the goblin from danger quickly,forest,25,8,help
+Win over the bandit with kind words,tavern,9,67,persuade
+I sneak behind the dragon and pick the pocket carefully,forest,1,17,steal
+I explore beyond the door in the dark,castle,22,93,explore
+Win over the dragon with kind words,village,27,33,persuade
+Look around the ruins with my sword,mountain,3,14,steal
+Win over the merchant with kind words quickly,tavern,1,50,persuade
+Talk the guard into helping us without a word,mountain,29,97,persuade
+I try to steal the gold from the dragon,dungeon,15,44,steal
+Escape from the goblin,tavern,3,20,flee
+I want to haggle with the bandit in the dark,forest,11,64,negotiate
+I rescue the innkeeper slowly,market,15,87,help
+Look around the chest without a word,tavern,22,37,explore
+I try to hit the guard hard,mountain,29,55,attack
+I back off and run for my life now,tavern,3,80,flee
+Sneak and rob the guard,forest,7,86,steal
+Warn the guard that they will suffer,forest,9,71,intimidate
+Attack the merchant! now,mountain,9,91,attack
+Escape from the goblin again,forest,21,84,flee
+"Please listen to reason, the innkeeper again",tavern,10,24,attack
+Investigate the area with my sword,market,10,22,explore
+Sneak and rob the innkeeper with my sword,castle,20,43,steal
+"Name your price, the king without a word",castle,16,74,negotiate
+I examine the ruins closely without a word,tavern,26,51,explore
+I glare at the innkeeper and growl a warning,dungeon,16,47,intimidate
+"What will you pay me, the villager?",mountain,26,93,negotiate
+Convince the wizard to trust me,forest,26,47,persuade
+I run away from the priest,market,27,53,flee
+"Heal the wizard, kind friend with my sword",village,7,46,help
+Run!,tavern,9,68,flee
+Smash the goblin with my axe,village,28,46,attack
+I appeal to the honor of the innkeeper,forest,5,58,persuade
+"Hand it over or else, the king with my sword",village,2,8,intimidate
+Warn the dragon that they will suffer quickly,village,29,83,intimidate
+Let me slash the villager down quickly,tavern,9,95,attack
+"Can we reach an agreement, the guard?",castle,1,42,negotiate
+I quietly lift the keys from the wizard,mountain,24,97,steal
+Talk the innkeeper into helping us,village,13,82,persuade
+Talk the priest into helping us,market,3,85,persuade
+I glare at the innkeeper and growl a warning,mountain,7,64,intimidate
+Investigate the area,tavern,18,83,explore
+"How much for that, the wizard? slowly",mountain,12,5,negotiate
+I retreat and escape through the tower,village,21,49,flee
+I sneak behind the priest and pick the pocket,village,27,77,steal
+I glare at the villager and growl a warning,village,27,85,intimidate
+I charge at the goblin and swing with my sword,castle,26,97,attack
+I search the forest path quickly,castle,24,63,explore
+"How much for that, the innkeeper? carefully",forest,27,47,negotiate
+"Let us trade, the goblin slowly",dungeon,26,49,negotiate
+I talk the innkeeper into letting us pass,castle,29,52,persuade
+"I get out of here, away from the innkeeper",tavern,28,90,flee
+"What will you pay me, the priest?",mountain,7,34,negotiate
+"How much for that, the priest? without a word",forest,5,83,negotiate
+Investigate the area quickly,mountain,18,74,explore
+I explore beyond the tower quickly,forest,14,82,explore
+Fight the merchant to the death now,tavern,23,89,attack
+I swipe the jewel and hide it now,tavern,14,94,steal
+Convince the innkeeper to trust me with my sword,dungeon,12,36,persuade
+I retreat and escape through the forest path,castle,5,85,flee
+Sneak and rob the priest with my sword,castle,21,37,steal
+I flee the scene,village,23,97,flee
+I really retreat and escape through the cave,mountain,8,82,flee
+I run away from the bandit quickly,mountain,21,77,flee
+"Take the gold and run, unseen slowly",market,28,34,steal
+Escape from the wizard with my sword,dungeon,17,10,flee
+"What will you pay me, the priest?",dungeon,13,37,negotiate
+"Name your price, the dragon",castle,23,33,negotiate
+Smash the priest with my axe,castle,9,89,attack
+Attack the wizard! carefully,mountain,3,62,attack
+"Take the gold and run, unseen with my sword",village,24,57,steal
+"How much for that, the priest? with my sword",mountain,27,13,negotiate
+I offer the innkeeper a fair deal in the dark,dungeon,21,83,negotiate
+I open the tower and look inside,market,27,86,explore
+I scare the goblin with my blade drawn,dungeon,20,59,intimidate
+I flee the scene,forest,19,28,flee
+I flee the scene,village,18,91,flee
+"How much for that, the priest?",dungeon,20,25,negotiate
+Look around the forest path,dungeon,8,87,explore
+I demand the goblin obey me or suffer carefully,dungeon,23,65,intimidate
+Check inside the cave now,dungeon,30,50,explore
+"Take the gold and run, unseen carefully",dungeon,11,26,steal
+Save the bandit from danger,market,15,81,help
+I sneak behind the king and pick the pocket again,mountain,15,85,steal
+I swipe the jewel and hide it,forest,4,93,steal
+I try to steal the gold from the bandit carefully,dungeon,4,67,steal
+I try to retreat and escape through the tower quickly,tavern,10,53,flee
+"What will you pay me, the guard?",dungeon,8,81,negotiate
+I glare at the villager and growl a warning,forest,30,46,intimidate
+Fight the dragon to the death,tavern,17,58,attack
+I draw my sword and strike the wizard with my sword,village,19,63,attack
+I search the tower slowly,village,21,99,explore
+I fire an arrow at the wizard,dungeon,3,63,attack
+I hit the villager hard,tavern,9,55,attack
+I walk into the forest path to look around now,castle,25,18,explore
+I examine the cave closely quickly,village,7,96,explore
+"Retreat now, back away carefully",village,26,24,flee
+"Let us trade, the villager",market,5,6,negotiate
+Talk the goblin into helping us,dungeon,30,26,persuade
+I draw my sword and strike the priest,mountain,26,68,attack
+I walk into the ruins to look around,tavern,13,88,explore
+"Let us make a bargain, the dragon",dungeon,4,40,negotiate
+I flee the scene,dungeon,16,7,flee
+I open the door and look inside slowly,market,17,42,explore
+I rescue the king,dungeon,2,24,help
+I try to steal the gold from the merchant,village,16,80,steal
+"Retreat now, back away quickly",castle,20,43,flee
+I investigate the cave quickly,mountain,6,25,explore
+"Hand it over or else, the merchant",tavern,11,97,intimidate
+I assist the wizard with the wounds quickly,village,21,15,help
+Smash the goblin with my axe carefully,village,11,13,attack
+I search the chest quickly,dungeon,30,55,explore
+"Heal the innkeeper, kind friend without a word",tavern,30,67,help
+Steal from the innkeeper,dungeon,3,46,steal
+"Let us trade, the king",market,22,12,negotiate
+Win over the guard with kind words in the dark,tavern,4,22,persuade
+I rescue the merchant,forest,6,11,help
+I investigate the cave,dungeon,6,94,explore
+Run!,market,3,36,flee
+I offer the merchant my food and aid carefully,dungeon,29,46,help
+I protect the bandit from harm,forest,24,66,help
+"Let us make a bargain, the villager in the dark",castle,2,83,negotiate
+Warn the innkeeper that they will suffer in the dark,market,20,28,intimidate
+Sneak and rob the goblin,dungeon,17,52,steal
+I examine the door closely again,castle,25,51,explore
+I demand the wizard obey me or suffer,dungeon,20,32,intimidate
+I protect the villager from harm again,castle,30,21,help
+Attack the villager!,market,14,21,attack
+"Take the gold and run, unseen in the dark",castle,17,7,steal
+Escape from the guard carefully,forest,6,19,flee
+"What will you pay me, the goblin?",village,14,33,negotiate
+I retreat and escape through the ruins now,market,2,74,flee
+"I get out of here, away from the king with my sword",mountain,11,78,flee
+Sneak and rob the villager,village,29,57,steal
+I talk the villager into letting us pass,castle,25,51,persuade
+I back off and run for my life,tavern,16,18,flee
+Get away from the guard,forest,20,42,flee
+I draw my sword and strike the wizard with my sword,tavern,21,80,explore
+Search the forest path,dungeon,22,60,explore
+Attack the king! in the dark,forest,20,31,attack
+I back off and run for my life,castle,12,56,intimidate
+I heal the villager with a potion,village,24,17,help
+Get away from the bandit,market,24,17,flee
+I demand the goblin obey me or suffer,market,5,21,intimidate
+I hit the king hard,tavern,28,31,attack
+I threaten the priest to hand it over,village,7,11,intimidate
+I charm the dragon with kind words,village,21,10,persuade
+I run away from the wizard,dungeon,4,58,flee
+Run! in the dark,forest,6,34,flee
+Let me slash the goblin down carefully,market,6,97,attack
+Get away from the merchant without a word,village,3,58,flee
+I offer the goblin a fair deal,market,30,84,negotiate
+I offer the king a fair deal,castle,1,98,negotiate
+I propose a trade with the villager now,tavern,26,69,negotiate
+I cast a fireball at the guard,forest,22,90,attack
+Investigate the area,forest,25,58,explore
+Convince the wizard to trust me without a word,tavern,7,89,persuade
+I draw my sword and strike the king again,castle,4,64,intimidate
+"Please listen to reason, the guard without a word",market,28,63,persuade
+Make a deal with the merchant again,village,7,47,negotiate
+"Let us make a bargain, the priest",dungeon,30,35,negotiate
+I quietly lift the keys from the guard,tavern,1,65,steal
+I draw my sword and strike the villager again,forest,29,83,attack
+Convince the villager to trust me,castle,21,10,persuade
+"Please listen to reason, the villager quickly",mountain,29,14,persuade
+I assist the goblin with the wounds quickly,tavern,24,54,intimidate
+I back off and run for my life in the dark,forest,11,96,flee
+I demand the king obey me or suffer,market,3,71,intimidate
+I help the guard carry the load,market,21,51,help
+I rescue the wizard,market,23,62,help
+Smash the king with my axe with my sword,market,4,43,attack
+Run! with my sword,mountain,27,26,flee
+I hit the innkeeper hard now,forest,28,53,attack
+I sneak behind the dragon and pick the pocket,mountain,8,54,steal
+I propose a trade with the guard with my sword,dungeon,26,79,negotiate
+I rescue the wizard with my sword,dungeon,17,93,help
+Check inside the forest path slowly,dungeon,5,65,explore
+I swipe the jewel and hide it with my sword,forest,20,22,steal
+I retreat and escape through the door,forest,5,18,flee
+"What will you pay me, the guard?",castle,23,60,negotiate
+I draw my sword and strike the villager now,castle,9,35,attack
+I want to haggle with the bandit without a word,forest,9,58,negotiate
+Please help the dragon,castle,16,27,help
+I quietly lift the keys from the dragon with my sword,village,13,39,steal
+Pickpocket the priest quietly carefully,market,30,90,steal
+Make a deal with the priest,tavern,20,40,negotiate
+"I get out of here, away from the merchant",mountain,27,80,flee
+Save the goblin from danger now,mountain,23,56,help
+I threaten the villager to hand it over,tavern,11,100,intimidate
+Search the door,mountain,19,80,explore
+Search the cave slowly,tavern,10,77,explore
+I back off and run for my life without a word,village,13,88,flee
+I try to steal the gold from the wizard carefully,market,26,44,steal
+Please help the innkeeper,mountain,21,78,help
+Aid the bandit and share my supplies with my sword,forest,13,88,help
+"Heal the dragon, kind friend carefully",tavern,5,39,help
+"Retreat now, back away carefully",mountain,15,70,flee
+Make a deal with the king carefully,mountain,12,7,negotiate
+I quietly lift the keys from the bandit quickly,dungeon,17,68,steal
+I demand the merchant obey me or suffer,tavern,27,84,intimidate
+"How much for that, the goblin? again",mountain,15,61,negotiate
+Let me slash the bandit down,mountain,17,78,attack
+I draw my sword and strike the king,market,15,98,attack
+Please help the merchant,dungeon,28,36,help
+Smash the king with my axe,castle,21,76,attack
+I swipe the jewel and hide it carefully,forest,10,12,steal
+I rescue the king now,forest,14,66,help
+"Retreat now, back away",market,20,64,flee
+I rob the villager while no one looks carefully,dungeon,19,36,steal
+"Retreat now, back away again",castle,30,26,flee
+Escape from the dragon slowly,tavern,21,93,flee
+"What will you pay me, the wizard? carefully",mountain,21,16,negotiate
+I heal the wizard with a potion,forest,5,32,help
+I offer the priest my food and aid slowly,village,25,95,help
+"Take the gold and run, unseen now",dungeon,2,68,persuade
+"Heal the guard, kind friend in the dark",tavern,29,9,help
+I quietly lift the keys from the goblin,dungeon,14,45,steal
+I appeal to the honor of the wizard slowly,forest,12,41,persuade
+I heal the king with a potion,forest,30,47,help
+Talk the villager into helping us again,castle,14,21,persuade
+Smash the king with my axe now,village,2,23,attack
+Talk the king into helping us,dungeon,17,76,persuade
+I swipe the jewel and hide it quickly,tavern,19,79,steal
+Look around the cave without a word,castle,23,77,explore
+"Heal the guard, kind friend",tavern,14,79,help
+Sneak and rob the innkeeper with my sword,forest,28,15,steal
+Scare the merchant into talking carefully,forest,15,44,intimidate
+I assist the king with the wounds,forest,28,84,help
+Escape from the king,dungeon,17,73,flee
+I really charge at the merchant and swing quickly,forest,13,49,attack
+I fire an arrow at the merchant in the dark,dungeon,18,43,attack
+I menace the villager until they talk,castle,14,52,intimidate
+Convince the wizard to trust me,market,6,47,persuade
+I examine the ruins closely again,castle,14,50,explore
+I reason with the wizard calmly,castle,6,54,persuade
+I propose a trade with the villager,dungeon,22,53,negotiate
+I threaten the priest to hand it over,castle,22,99,intimidate
+Investigate the area carefully,dungeon,18,14,explore
+Steal from the bandit in the dark,castle,1,83,steal
+I fire an arrow at the dragon without a word,dungeon,12,5,attack
+I try to steal the gold from the dragon in the dark,castle,22,12,steal
+Win over the dragon with kind words,tavern,19,7,persuade
+"Retreat now, back away",market,20,92,flee
+I charge at the merchant and swing carefully,forest,8,55,attack
+Save the innkeeper from danger,forest,10,42,help
+Warn the innkeeper that they will suffer,village,26,17,intimidate
+I charm the dragon with kind words in the dark,market,9,50,persuade
+I walk into the tower to look around in the dark,village,27,73,explore
+I appeal to the honor of the king now,market,18,37,persuade
+I threaten the dragon to hand it over in the dark,tavern,12,92,intimidate
+I scare the goblin with my blade drawn,mountain,4,44,intimidate
+Warn the bandit that they will suffer with my sword,market,26,25,intimidate
+I heal the goblin with a potion with my sword,mountain,9,29,help
+I examine the chest closely without a word,mountain,12,87,explore
+Search the ruins,tavern,18,50,explore
+I charm the bandit with kind words in the dark,market,30,65,persuade
+"Can we reach an agreement, the merchant? again",dungeon,5,72,negotiate
+Make a deal with the king carefully,castle,18,7,negotiate
+I retreat and escape through the ruins carefully,castle,13,44,flee
+I attack the innkeeper,mountain,7,67,attack
+I rob the dragon while no one looks now,dungeon,28,29,steal
+I attack the guard,mountain,10,26,attack
+Scare the priest into talking with my sword,village,8,78,intimidate
+"Heal the priest, kind friend in the dark",mountain,25,43,help
+"What will you pay me, the bandit? without a word",mountain,26,53,negotiate
+I convince the king to join my cause with my sword,market,15,65,persuade
+I try to steal the gold from the goblin slowly,tavern,1,86,steal
+Convince the guard to trust me,forest,24,23,persuade
+I back off and run for my life carefully,dungeon,13,28,flee
+"Can we reach an agreement, the innkeeper?",mountain,7,90,negotiate
+I search the tower,tavern,22,57,explore
+I glare at the innkeeper and growl a warning in the dark,dungeon,7,93,intimidate
+I sneak behind the priest and pick the pocket slowly,dungeon,13,37,steal
+I offer the priest a fair deal,forest,5,15,negotiate
+I swipe the jewel and hide it,dungeon,26,94,steal
+Smash the innkeeper with my axe in the dark,market,1,77,attack
+Talk the king into helping us,market,20,63,persuade
+I reason with the villager calmly with my sword,village,7,48,persuade
+"Please listen to reason, the villager",castle,19,77,persuade
+Talk the priest into helping us,tavern,29,10,persuade
+I walk into the ruins to look around quickly,forest,18,9,explore
+I heal the dragon with a potion,market,6,68,help
+"Name your price, the king",dungeon,11,85,persuade
+I protect the guard from harm in the dark,market,3,91,help
+I convince the innkeeper to join my cause quickly,village,20,25,persuade
+Attack the goblin! with my sword,village,30,100,attack
+I explore beyond the chest with my sword,village,9,76,explore
+"Let us trade, the villager",market,2,76,negotiate
+I want to haggle with the guard carefully,forest,20,57,negotiate
+I walk into the door to look around in the dark,forest,14,90,help
+I try to steal the gold from the wizard,tavern,27,15,steal
+I demand the king obey me or suffer,castle,21,21,intimidate
+"Please listen to reason, the merchant in the dark",dungeon,3,76,persuade
+I cast a fireball at the king,dungeon,18,48,attack
+"Name your price, the bandit quickly",tavern,27,14,negotiate
+Look around the cave without a word,tavern,8,98,explore
+Convince the priest to trust me slowly,mountain,6,42,persuade
+Let me slash the king down with my sword,market,8,99,attack
+I open the chest and look inside with my sword,tavern,15,67,explore
+Smash the merchant with my axe,mountain,11,45,attack
+Talk the innkeeper into helping us,market,27,85,persuade
+Sneak and rob the guard,castle,15,96,steal
+I offer the innkeeper my food and aid,market,18,94,help
+I rescue the dragon,mountain,6,41,help
+Scare the wizard into talking,forest,19,76,intimidate
+I try to steal the gold from the king,market,9,100,steal
+Save the goblin from danger in the dark,forest,16,37,help
+Make a deal with the goblin,market,9,41,negotiate
+I explore beyond the forest path,castle,17,8,explore
+I hit the guard hard slowly,tavern,11,8,attack
+Pickpocket the innkeeper quietly,dungeon,11,61,steal
+Win over the wizard with kind words carefully,castle,21,74,persuade
+Save the villager from danger now,market,26,33,help
+Search the tower,forest,28,44,explore
+I convince the bandit to join my cause,village,10,45,persuade
+Aid the merchant and share my supplies,tavern,15,89,help
+I explore beyond the cave,village,5,52,explore
+I scare the guard with my blade drawn,village,23,74,intimidate
+"What will you pay me, the innkeeper? again",village,9,27,negotiate
+I fire an arrow at the bandit slowly,forest,14,42,attack
+I reason with the guard calmly with my sword,castle,12,71,persuade
+Attack the innkeeper! with my sword,castle,12,75,attack
+Get away from the dragon with my sword,mountain,21,36,flee
+Escape from the wizard now,tavern,2,38,flee
+Warn the priest that they will suffer,market,28,96,intimidate
+I rob the bandit while no one looks,mountain,20,35,steal
+Check inside the door,tavern,23,19,explore
+Kill the goblin,forest,9,28,attack
+Talk the goblin into helping us with my sword,village,27,21,persuade
+I menace the bandit until they talk quickly,village,20,70,intimidate
+"Heal the guard, kind friend",mountain,14,18,help
+I really threaten the bandit to hand it over,market,28,70,intimidate
+Kill the priest with my sword,tavern,1,42,flee
+I swipe the jewel and hide it,market,19,44,steal
+I rescue the innkeeper,forest,26,39,help
+I swipe the jewel and hide it now,village,16,63,steal
+I attack the bandit again,market,24,20,attack
+I run away from the dragon with my sword,dungeon,30,64,flee
+I offer the dragon a fair deal,dungeon,7,46,negotiate
+I examine the door closely,tavern,29,89,explore
+I appeal to the honor of the goblin,mountain,12,77,persuade
+Investigate the area in the dark,tavern,1,62,explore
+I walk into the ruins to look around quickly,market,5,48,explore
+"Hand it over or else, the priest with my sword",dungeon,27,34,intimidate
+"Retreat now, back away now",market,9,21,flee
+I menace the wizard until they talk,forest,27,10,intimidate
+I want to haggle with the guard,forest,4,99,negotiate
+I flee the scene,village,10,96,flee
+I rescue the wizard,market,29,63,help
+I search the tower,forest,21,92,explore
+Smash the dragon with my axe without a word,forest,28,56,attack
+Get away from the innkeeper,tavern,19,9,flee
+I investigate the door,dungeon,14,13,explore
+I reason with the bandit calmly quickly,dungeon,19,93,persuade
+I cast a fireball at the bandit,dungeon,13,74,attack
+"Can we reach an agreement, the king? quickly",tavern,22,52,negotiate
+Strike the innkeeper down,castle,9,64,attack
+Win over the wizard with kind words without a word,forest,4,47,persuade
+I help the dragon carry the load without a word,dungeon,5,17,help
+I appeal to the honor of the wizard now,forest,30,71,persuade
+"Hand it over or else, the innkeeper",village,27,70,intimidate
+I try to steal the gold from the innkeeper,forest,9,77,steal
+Check inside the forest path again,dungeon,25,6,explore
+Convince the bandit to trust me,tavern,4,28,persuade
+I run away from the villager in the dark,village,26,61,flee
+Smash the villager with my axe quickly,tavern,13,82,attack
+I threaten the villager to hand it over,tavern,10,99,intimidate
+I demand the bandit obey me or suffer with my sword,mountain,30,14,intimidate
+I rescue the goblin in the dark,market,24,67,help
+"Hand it over or else, the king carefully",dungeon,23,90,intimidate
+"Please listen to reason, the king",dungeon,12,27,persuade
+Please help the bandit,mountain,1,22,help
+I menace the king until they talk,castle,10,77,intimidate
+Make a deal with the goblin in the dark,forest,21,12,negotiate
+"Can we reach an agreement, the goblin?",market,11,85,negotiate
+I retreat and escape through the tower,mountain,30,55,flee
+Sneak and rob the goblin,market,3,41,steal
+I scare the priest with my blade drawn,forest,25,89,intimidate
+I scare the wizard with my blade drawn again,mountain,6,15,intimidate
+I demand the dragon obey me or suffer,forest,12,90,intimidate
+I investigate the tower,mountain,27,72,explore
+I charm the goblin with kind words,village,21,53,persuade
+I heal the innkeeper with a potion again,castle,13,53,help
+Aid the villager and share my supplies in the dark,forest,21,74,help
+"Name your price, the innkeeper",mountain,11,67,negotiate
+I run away from the merchant,tavern,6,31,flee
+I explore beyond the ruins,dungeon,22,95,explore
+Scare the wizard into talking,tavern,1,97,intimidate
+"Take the gold and run, unseen",mountain,29,29,steal
+I examine the chest closely,village,10,40,explore
+I convince the wizard to join my cause carefully,village,4,50,persuade
+Make a deal with the dragon,forest,30,31,negotiate
+"Name your price, the merchant",castle,2,42,negotiate
+I sneak behind the dragon and pick the pocket again,castle,16,56,steal
+I convince the guard to join my cause again,market,2,24,persuade
+I convince the guard to join my cause,tavern,17,66,persuade
+I propose a trade with the innkeeper in the dark,market,17,31,negotiate
+Save the innkeeper from danger,dungeon,9,56,help
+I investigate the chest in the dark,forest,25,75,explore
+I talk the villager into letting us pass,tavern,18,28,persuade
+Fight the merchant to the death with my sword,castle,7,71,attack
+I really help the wizard carry the load,dungeon,17,69,help
+Get away from the wizard carefully,forest,16,46,flee
+I propose a trade with the villager slowly,tavern,5,99,help
+Look around the forest path in the dark,castle,19,63,explore
+Win over the goblin with kind words,tavern,21,26,persuade
+I rescue the goblin quickly,village,8,84,help
+Get away from the bandit with my sword,tavern,29,51,flee
+"Heal the king, kind friend",tavern,12,78,help
+"I get out of here, away from the villager",market,18,59,flee
+Escape from the innkeeper with my sword,village,3,87,flee
+I investigate the tower carefully,village,30,20,explore
+I open the tower and look inside,mountain,4,66,explore
+Scare the villager into talking again,dungeon,6,45,intimidate
+Steal from the king quickly,forest,28,21,steal
+I quietly lift the keys from the merchant slowly,mountain,24,55,steal
+Check inside the cave now,dungeon,5,57,explore
+I cast a fireball at the wizard now,tavern,8,82,attack
+I cast a fireball at the wizard now,dungeon,29,88,attack
+I sneak behind the wizard and pick the pocket with my sword,tavern,13,6,steal
+Strike the dragon down,market,3,15,attack
+Convince the dragon to trust me,tavern,21,81,persuade
+I run away from the dragon quickly,tavern,19,17,flee
+Escape from the priest now,castle,5,56,flee
+I flee the scene,mountain,8,99,flee
+Kill the guard,forest,8,24,attack
+I glare at the king and growl a warning again,forest,1,27,intimidate
+I try to draw my sword and strike the goblin in the dark,castle,30,5,attack
+I threaten the guard to hand it over now,village,9,36,intimidate
+Win over the merchant with kind words again,dungeon,23,20,persuade
+Convince the king to trust me,mountain,10,75,persuade
+I scare the wizard with my blade drawn,mountain,26,45,intimidate
+Make a deal with the innkeeper now,tavern,1,58,negotiate
+Warn the dragon that they will suffer,mountain,14,98,intimidate
+Steal from the bandit without a word,mountain,13,26,steal
+I threaten the wizard to hand it over now,forest,12,82,intimidate
+I retreat and escape through the door,village,19,80,flee
+Run! carefully,tavern,13,50,flee
+I talk the dragon into letting us pass,forest,10,58,persuade
+Look around the chest,market,1,19,explore
+I convince the guard to join my cause in the dark,dungeon,5,68,persuade
+Get away from the bandit carefully,dungeon,17,9,flee
+"Let us make a bargain, the innkeeper quickly",forest,14,49,negotiate
+I menace the king until they talk again,village,13,84,intimidate
+Please help the villager,dungeon,24,18,flee
+"Let us make a bargain, the guard",market,6,84,negotiate
+"What will you pay me, the king? now",market,25,15,negotiate
+I threaten the wizard to hand it over,forest,22,74,intimidate
+Check inside the door,forest,3,26,persuade
+I retreat and escape through the chest slowly,mountain,6,76,flee
+Search the tower again,castle,6,58,explore
+I convince the merchant to join my cause now,market,26,92,persuade
+I menace the bandit until they talk,mountain,9,46,intimidate
+I scare the merchant with my blade drawn,forest,26,13,intimidate
+Let me slash the king down quickly,village,2,96,attack
+Scare the dragon into talking,market,15,66,intimidate
+"I get out of here, away from the merchant",castle,12,22,flee
+I charm the wizard with kind words quickly,dungeon,9,53,persuade
+I search the tower now,castle,18,73,explore
+I back off and run for my life,market,20,97,flee
+Warn the wizard that they will suffer,forest,4,78,intimidate
+I search the door now,castle,26,50,explore
+Get away from the dragon,market,11,65,flee
+Investigate the area,forest,10,98,explore
+I quietly lift the keys from the villager now,castle,25,49,steal
+I flee the scene,dungeon,27,54,flee
+Pickpocket the dragon quietly without a word,market,10,23,steal
+"Name your price, the bandit",mountain,17,83,negotiate
+Scare the goblin into talking quickly,forest,20,97,intimidate
+Strike the king down slowly,tavern,15,95,attack
+I run away from the priest now,dungeon,4,37,flee
+I run away from the bandit,tavern,7,42,steal
+I offer the priest a fair deal with my sword,forest,16,62,negotiate
+Aid the dragon and share my supplies again,mountain,21,92,help
+I offer the villager my food and aid quickly,dungeon,1,70,help
+I quietly lift the keys from the dragon without a word,forest,30,76,steal
+I heal the guard with a potion,dungeon,23,36,help
+I rescue the merchant,forest,19,96,help
+I charm the wizard with kind words,village,4,5,persuade
+I cast a fireball at the wizard slowly,tavern,14,100,attack
+I charm the wizard with kind words,market,14,6,persuade
+I swipe the jewel and hide it,castle,26,13,steal
+I charge at the king and swing slowly,tavern,10,30,attack
+I run away from the villager again,village,18,90,flee
+I flee the scene carefully,tavern,15,66,flee
+I assist the bandit with the wounds carefully,castle,2,91,help
+"Let us trade, the goblin without a word",forest,9,31,negotiate
+I explore beyond the tower with my sword,forest,29,61,explore
+I draw my sword and strike the priest,mountain,16,69,attack
+Steal from the villager,tavern,9,87,steal
+Sneak and rob the guard again,dungeon,21,18,steal
+I back off and run for my life slowly,castle,18,47,flee
+I demand the wizard obey me or suffer,castle,21,8,intimidate
+"I get out of here, away from the bandit with my sword",market,23,44,flee
+Threaten the priest!,mountain,11,50,intimidate
+Save the innkeeper from danger,village,8,76,help
+I heal the king with a potion,mountain,27,30,help
+Search the cave again,tavern,25,75,explore
+Kill the bandit with my sword,castle,8,45,attack
+Escape from the dragon without a word,market,8,6,flee
+I try to steal the gold from the villager now,market,30,66,negotiate
+I retreat and escape through the door,village,27,67,flee
+"Retreat now, back away now",tavern,12,67,flee
+Let me slash the villager down carefully,tavern,3,33,attack
+I hit the priest hard,castle,16,55,attack
+I sneak behind the priest and pick the pocket,dungeon,13,45,steal
+I quietly lift the keys from the villager,tavern,24,82,steal
+I threaten the guard to hand it over,village,16,51,intimidate
+I examine the chest closely carefully,forest,18,68,attack
+I want to haggle with the king,tavern,29,82,negotiate
+Warn the innkeeper that they will suffer slowly,market,12,48,intimidate
+Fight the wizard to the death slowly,mountain,9,64,attack
+I explore beyond the chest without a word,forest,18,63,explore
+Look around the chest,tavern,19,41,explore
+I talk the wizard into letting us pass,mountain,1,41,persuade
+I really search the chest quickly,dungeon,23,11,explore
+I retreat and escape through the ruins,forest,19,98,flee
+Make a deal with the priest,tavern,11,34,negotiate
+I fire an arrow at the guard quickly,mountain,14,15,attack
+"Heal the guard, kind friend",dungeon,26,12,help
+I try to rob the merchant while no one looks without a word,village,28,97,steal
+I protect the goblin from harm,village,9,42,help
+Smash the guard with my axe without a word,market,25,42,attack
+I draw my sword and strike the merchant,village,19,33,attack
+I draw my sword and strike the bandit with my sword,dungeon,26,38,attack
+I rob the goblin while no one looks,mountain,16,79,steal
+Scare the dragon into talking slowly,castle,26,41,intimidate
+I cast a fireball at the merchant,mountain,24,77,attack
+I propose a trade with the merchant now,mountain,20,61,negotiate
+"Let us trade, the dragon",market,14,8,negotiate
+I talk the goblin into letting us pass in the dark,market,23,52,persuade
+I retreat and escape through the door,dungeon,2,27,flee
+Aid the priest and share my supplies,market,5,37,help
+I try to steal the gold from the wizard quickly,castle,11,100,steal
+Talk the innkeeper into helping us now,tavern,6,36,persuade
+Escape from the merchant again,market,14,55,flee
+"Take the gold and run, unseen slowly",village,12,59,steal
+"Take the gold and run, unseen slowly",mountain,21,98,steal
+I hit the guard hard in the dark,mountain,29,90,attack
+I investigate the tower,village,30,11,explore
+"Please listen to reason, the merchant again",forest,29,44,persuade
+I rob the innkeeper while no one looks in the dark,dungeon,23,84,steal
+I charm the priest with kind words,castle,13,76,persuade
+Let me slash the villager down quickly,village,19,77,attack
+"How much for that, the innkeeper?",castle,8,54,negotiate
+Threaten the goblin! without a word,dungeon,21,70,intimidate
+Please help the wizard,dungeon,22,95,help
+I walk into the door to look around with my sword,market,22,98,explore
+I offer the villager my food and aid,village,13,73,help
+I attack the merchant,castle,11,37,attack
+"How much for that, the innkeeper? slowly",mountain,6,55,negotiate
+I back off and run for my life again,castle,17,83,flee
+Let me slash the villager down,dungeon,2,97,attack
+"Retreat now, back away without a word",village,3,5,flee
+Run! again,market,5,85,flee
+I appeal to the honor of the innkeeper,tavern,28,54,persuade
+Escape from the innkeeper without a word,dungeon,1,60,flee
+I run away from the guard without a word,mountain,30,53,flee
+I walk into the ruins to look around,tavern,25,37,explore
+I threaten the innkeeper to hand it over,village,19,99,intimidate
+I scare the guard with my blade drawn carefully,forest,19,22,intimidate
+I fire an arrow at the wizard,market,13,13,attack
+Investigate the area,castle,16,51,explore
+I swipe the jewel and hide it carefully,tavern,12,35,steal
+I reason with the dragon calmly with my sword,dungeon,5,10,attack
+Check inside the tower,tavern,22,13,explore
+I rescue the merchant,castle,25,26,help
+I explore beyond the chest,castle,24,89,explore
+"Can we reach an agreement, the bandit?",mountain,30,36,negotiate
+I search the ruins,tavern,8,64,explore
+Investigate the area carefully,mountain,18,86,explore
+I fire an arrow at the merchant,tavern,14,19,attack
+I menace the innkeeper until they talk,village,27,61,intimidate
+I search the forest path,castle,29,60,negotiate
+"Please listen to reason, the merchant without a word",forest,10,98,persuade
+I search the forest path carefully,forest,5,51,explore
+"What will you pay me, the wizard? carefully",castle,3,81,negotiate
+I talk the wizard into letting us pass,castle,7,58,persuade
+Let me slash the guard down,castle,26,87,attack
+I threaten the dragon to hand it over,dungeon,13,81,intimidate
+I hit the guard hard,forest,1,22,attack
+"Retreat now, back away",castle,4,89,help
+I menace the priest until they talk now,castle,11,26,intimidate
+Attack the king! now,castle,16,50,attack
+I quietly lift the keys from the innkeeper,forest,13,89,steal
+I really quietly lift the keys from the wizard now,market,19,100,steal
+I examine the chest closely quickly,market,24,95,explore
+I assist the bandit with the wounds again,market,9,23,help
+"What will you pay me, the merchant?",dungeon,22,15,negotiate
+Please help the merchant again,market,24,23,help
+Aid the wizard and share my supplies,mountain,15,40,help
+I reason with the innkeeper calmly,castle,22,99,persuade
+I want to haggle with the guard,forest,16,33,negotiate
+Talk the bandit into helping us with my sword,market,22,38,persuade
+I fire an arrow at the villager,dungeon,2,98,attack
+Sneak and rob the bandit without a word,castle,1,91,steal
+I want to haggle with the wizard again,forest,23,20,negotiate
+Please help the guard carefully,castle,24,95,help
+Fight the innkeeper to the death carefully,mountain,5,56,attack
+I protect the priest from harm in the dark,dungeon,14,77,help
+"Heal the villager, kind friend",forest,25,80,help
+"Please listen to reason, the dragon with my sword",dungeon,10,34,persuade
+Escape from the villager,dungeon,2,74,flee
+I attack the goblin,market,12,46,attack
+"What will you pay me, the bandit? quickly",market,17,42,negotiate
+I menace the dragon until they talk quickly,tavern,15,32,intimidate
+I offer the merchant my food and aid in the dark,forest,17,30,help
+Pickpocket the guard quietly with my sword,market,27,41,steal
+I appeal to the honor of the merchant now,village,22,91,persuade
+I rob the king while no one looks without a word,dungeon,28,93,steal
+Investigate the area,village,5,11,explore
+I hit the priest hard slowly,village,29,24,attack
+I draw my sword and strike the dragon,forest,7,92,persuade
+Pickpocket the guard quietly,dungeon,14,42,steal
+Aid the bandit and share my supplies,dungeon,10,76,help
+Escape from the innkeeper,tavern,16,25,flee
+I appeal to the honor of the merchant carefully,village,14,24,persuade
+I cast a fireball at the wizard carefully,tavern,21,52,attack
+"How much for that, the king?",market,28,94,negotiate
+I really talk the bandit into letting us pass in the dark,forest,15,39,persuade
+Strike the king down,mountain,5,73,attack
+Let me slash the bandit down in the dark,forest,8,66,attack
+Sneak and rob the king,village,19,82,steal
+"Please listen to reason, the goblin carefully",village,29,38,persuade
+Let me slash the merchant down,dungeon,30,83,attack
+"Take the gold and run, unseen slowly",forest,11,45,steal
+I swipe the jewel and hide it,castle,9,10,steal
+Talk the merchant into helping us quickly,market,9,78,persuade
+Kill the guard,forest,20,50,attack
+Attack the innkeeper! in the dark,village,23,39,attack
+I demand the villager obey me or suffer,village,10,10,intimidate
+I protect the king from harm,market,11,64,help
+I cast a fireball at the guard now,tavern,7,59,attack
+I appeal to the honor of the wizard slowly,dungeon,12,71,persuade
+Fight the goblin to the death,market,7,30,attack
+I explore beyond the cave,market,10,50,explore
+"Retreat now, back away quickly",village,9,65,flee
+I propose a trade with the bandit without a word,dungeon,27,89,negotiate
+Threaten the merchant! quickly,market,2,68,intimidate
+"Heal the priest, kind friend",market,7,39,help
+Attack the priest!,tavern,5,29,attack
+I offer the innkeeper my food and aid,tavern,5,62,help
+I demand the bandit obey me or suffer slowly,tavern,25,25,intimidate
+"I get out of here, away from the villager",castle,2,100,flee
+I hit the guard hard,village,24,18,attack
+Smash the goblin with my axe,market,12,44,attack
+"Take the gold and run, unseen with my sword",village,17,35,steal
+I really quietly lift the keys from the king without a word,forest,28,96,steal
+Smash the villager with my axe,forest,11,16,attack
+Please help the bandit,tavern,1,74,help
+Threaten the goblin!,village,11,41,intimidate
+"Hand it over or else, the priest",market,2,50,intimidate
+"What will you pay me, the wizard?",mountain,24,45,negotiate
+"Can we reach an agreement, the priest?",mountain,24,50,negotiate
+"Take the gold and run, unseen",forest,19,43,steal
+I sneak behind the guard and pick the pocket with my sword,market,12,100,steal
+I protect the innkeeper from harm,mountain,11,69,help
+Aid the king and share my supplies quickly,castle,12,28,help
+I try to steal the gold from the goblin,market,5,9,steal
+"I get out of here, away from the innkeeper in the dark",village,14,60,flee
+"Take the gold and run, unseen",forest,7,31,steal
+Convince the guard to trust me,castle,6,59,persuade
+Win over the guard with kind words,castle,12,30,persuade
+I glare at the goblin and growl a warning,village,8,11,intimidate
+I convince the goblin to join my cause in the dark,forest,16,80,persuade
+I walk into the ruins to look around,market,26,66,explore
+Fight the innkeeper to the death,village,26,93,attack
+Search the ruins quickly,mountain,11,75,explore
+I try to demand the merchant obey me or suffer,tavern,12,30,intimidate
+I menace the bandit until they talk quickly,castle,21,89,intimidate
+I search the cave again,dungeon,9,44,explore
+"I get out of here, away from the merchant",castle,21,56,flee
+"Hand it over or else, the goblin",market,20,20,intimidate
+Please help the merchant without a word,village,25,89,help
+I quietly lift the keys from the king,dungeon,9,95,steal
+Threaten the wizard!,mountain,17,57,intimidate
+Steal from the innkeeper,village,19,60,steal
+"Hand it over or else, the king",forest,5,43,intimidate
+I talk the dragon into letting us pass,market,11,62,persuade
+Check inside the door,market,27,43,explore
+I quietly lift the keys from the guard with my sword,market,9,48,steal
+Make a deal with the wizard,forest,2,30,negotiate
+I charm the goblin with kind words in the dark,mountain,27,8,persuade
+"Heal the villager, kind friend",dungeon,26,61,intimidate
+I protect the villager from harm without a word,dungeon,29,16,help
+I charge at the guard and swing,forest,1,14,attack
+I quietly lift the keys from the wizard quickly,dungeon,22,50,steal
+Please help the innkeeper without a word,mountain,20,49,help
+Escape from the guard without a word,mountain,29,42,flee
+I help the priest carry the load,dungeon,5,39,help
+I menace the dragon until they talk slowly,market,22,89,intimidate
+Run! with my sword,village,29,60,flee
+I really cast a fireball at the guard in the dark,mountain,9,12,attack
+I back off and run for my life,dungeon,24,26,flee
+Strike the guard down in the dark,castle,16,62,attack
+"What will you pay me, the wizard? without a word",castle,21,63,negotiate
+I rob the guard while no one looks,castle,8,45,steal
+Fight the priest to the death carefully,forest,5,18,attack
+I really appeal to the honor of the innkeeper again,village,15,55,persuade
+Please help the merchant,castle,28,42,help
+I examine the chest closely,market,23,24,explore
+I reason with the bandit calmly,mountain,29,30,persuade
+Smash the villager with my axe quickly,dungeon,7,68,attack
+I menace the innkeeper until they talk without a word,mountain,13,57,intimidate
+I want to haggle with the king,tavern,21,14,negotiate
+Sneak and rob the guard,dungeon,18,65,steal
+"Heal the innkeeper, kind friend",mountain,15,74,help
+I open the door and look inside,market,5,59,explore
+Win over the king with kind words,market,3,25,persuade
+I talk the dragon into letting us pass,castle,24,25,persuade
+I rescue the merchant,castle,23,96,help
+I demand the wizard obey me or suffer,market,27,73,intimidate
+I back off and run for my life carefully,forest,12,20,flee
+Kill the king now,market,30,26,attack
+I sneak behind the wizard and pick the pocket again,tavern,20,99,steal
+Escape from the bandit in the dark,village,27,95,flee
+"Let us trade, the innkeeper carefully",market,30,47,negotiate
+Attack the villager!,tavern,24,24,attack
+"Heal the king, kind friend",dungeon,29,85,persuade
+I propose a trade with the goblin in the dark,dungeon,28,17,negotiate
+I assist the merchant with the wounds carefully,castle,29,60,help
+I demand the villager obey me or suffer,mountain,21,25,intimidate
+"I get out of here, away from the king",village,25,29,flee
+I attack the goblin slowly,mountain,9,29,attack
+Sneak and rob the bandit,market,7,18,steal
+I reason with the guard calmly,forest,7,64,persuade
+I swipe the jewel and hide it again,dungeon,18,58,steal
+"What will you pay me, the goblin? slowly",village,27,24,negotiate
+"Name your price, the villager",dungeon,3,97,negotiate
+I demand the bandit obey me or suffer,village,29,77,intimidate
+I threaten the merchant to hand it over quickly,market,15,64,intimidate
+I open the tower and look inside,mountain,28,19,explore
+I flee the scene carefully,market,26,29,negotiate
+I help the priest carry the load in the dark,castle,9,97,help
+I heal the dragon with a potion,tavern,2,74,help
+"Please listen to reason, the innkeeper",castle,11,36,persuade
+I hit the merchant hard again,village,14,67,attack
+"What will you pay me, the innkeeper?",tavern,4,99,negotiate
+"Hand it over or else, the innkeeper in the dark",market,9,39,intimidate
+I hit the goblin hard again,tavern,16,42,attack
+"Let us trade, the villager",forest,24,62,negotiate
+I propose a trade with the wizard with my sword,castle,29,94,negotiate
+I help the priest carry the load without a word,market,15,42,help
+"Name your price, the priest in the dark",mountain,23,79,negotiate
+I scare the goblin with my blade drawn,forest,18,15,intimidate
+"Heal the dragon, kind friend",market,23,95,help
+Threaten the king!,tavern,2,31,intimidate
+Threaten the dragon!,village,14,78,intimidate
+I charm the dragon with kind words,village,25,90,persuade
+Sneak and rob the goblin without a word,dungeon,3,88,steal
+Aid the wizard and share my supplies quickly,forest,27,77,help
+I want to haggle with the bandit,forest,3,66,negotiate
+Threaten the wizard! now,village,3,43,intimidate
+I investigate the chest,forest,25,25,explore
+"Retreat now, back away carefully",market,22,82,flee
+"Heal the innkeeper, kind friend",castle,27,7,help
+I want to haggle with the dragon without a word,market,30,88,negotiate
+Fight the wizard to the death now,dungeon,7,90,attack
+Investigate the area,village,12,45,explore
+I heal the dragon with a potion again,castle,5,98,help
+I try to steal the gold from the innkeeper,castle,14,11,steal
+I heal the guard with a potion,forest,27,81,help
+I walk into the door to look around,market,25,33,explore
+"What will you pay me, the wizard?",market,11,66,negotiate
+Save the merchant from danger,dungeon,11,10,help
+Strike the merchant down,mountain,10,57,attack
+I back off and run for my life,tavern,14,89,negotiate
+I examine the tower closely,castle,29,22,explore
+"How much for that, the wizard? now",mountain,1,17,negotiate
+I examine the door closely,tavern,30,19,explore
+I swipe the jewel and hide it now,market,22,57,steal
+I hit the king hard,village,16,7,attack
+Search the tower with my sword,mountain,13,81,explore
+Kill the merchant,dungeon,25,82,attack
+Attack the villager!,village,26,54,attack
+I demand the guard obey me or suffer,mountain,27,43,intimidate
+I cast a fireball at the villager,tavern,17,39,attack
+I hit the guard hard again,castle,9,32,attack
+I retreat and escape through the door,market,24,53,flee
+I swipe the jewel and hide it,market,17,7,steal
+I attack the bandit,castle,2,85,attack
+I fire an arrow at the merchant,castle,2,92,attack
+"Can we reach an agreement, the priest? in the dark",mountain,4,18,negotiate
+Steal from the dragon quickly,forest,16,87,steal
+I assist the innkeeper with the wounds,mountain,8,81,help
+I flee the scene now,village,28,88,flee
+"Hand it over or else, the king",forest,12,69,intimidate
+I menace the king until they talk,village,29,82,intimidate
+Get away from the king,dungeon,1,20,flee
+I really walk into the cave to look around,mountain,15,18,explore
+I offer the innkeeper a fair deal,castle,27,39,negotiate
+Investigate the area,mountain,2,44,explore
+I convince the wizard to join my cause now,market,29,26,persuade
+Let me slash the bandit down now,dungeon,26,11,attack
+Escape from the priest,market,22,13,flee
+Scare the bandit into talking,dungeon,26,34,intimidate
+"I get out of here, away from the merchant",castle,1,93,flee
+I heal the dragon with a potion slowly,dungeon,1,17,help
+I sneak behind the priest and pick the pocket quickly,village,21,17,steal
+I offer the king a fair deal in the dark,castle,4,25,negotiate
+Sneak and rob the merchant carefully,castle,9,41,steal
+I swipe the jewel and hide it without a word,forest,21,33,steal
+"Retreat now, back away quickly",castle,4,50,flee
+Please help the wizard,village,12,63,help
+I flee the scene in the dark,tavern,5,8,flee
+I try to fire an arrow at the wizard carefully,village,15,25,attack
+I offer the goblin a fair deal carefully,forest,7,72,negotiate
+"Take the gold and run, unseen slowly",tavern,19,74,steal
+Look around the tower,tavern,18,10,explore
+I draw my sword and strike the priest,castle,23,69,attack
+Get away from the priest without a word,tavern,7,7,flee
+I retreat and escape through the tower,forest,23,37,flee
+I fire an arrow at the wizard in the dark,village,26,59,attack
+I heal the bandit with a potion,forest,22,48,help
+I open the door and look inside again,forest,5,20,explore
+Investigate the area with my sword,mountain,12,76,explore
+Look around the forest path,dungeon,30,58,explore
+I heal the wizard with a potion in the dark,castle,26,6,help
+"What will you pay me, the innkeeper?",dungeon,5,27,negotiate
+I propose a trade with the guard again,mountain,6,36,negotiate
+I flee the scene,castle,5,33,flee
+Look around the forest path now,dungeon,17,80,explore
+Attack the wizard!,market,11,61,attack
+I hit the innkeeper hard with my sword,market,22,91,attack
+Smash the guard with my axe,village,27,9,attack
+I try to help the priest carry the load,forest,3,59,help
+I back off and run for my life,tavern,18,71,flee
+Strike the goblin down without a word,village,21,82,attack
+"Let us make a bargain, the wizard",dungeon,5,75,negotiate
+Get away from the innkeeper,dungeon,10,24,flee
+Escape from the wizard,forest,15,43,flee
+I cast a fireball at the king,castle,9,6,attack
+I fire an arrow at the goblin without a word,market,11,52,attack
+"How much for that, the merchant?",forest,22,9,negotiate
+I try to steal the gold from the villager now,mountain,7,28,steal
+"Name your price, the innkeeper with my sword",castle,3,23,negotiate
+I explore beyond the tower now,market,3,83,explore
+Talk the wizard into helping us now,forest,24,46,persuade
+"Hand it over or else, the wizard carefully",market,20,76,intimidate
+Steal from the guard with my sword,forest,25,41,steal
+Aid the villager and share my supplies quickly,tavern,15,97,help
+Scare the villager into talking now,market,10,11,intimidate
+I quietly lift the keys from the villager,mountain,14,20,steal
+"What will you pay me, the guard? carefully",market,7,69,negotiate
+I talk the innkeeper into letting us pass,dungeon,22,51,persuade
+I retreat and escape through the chest,dungeon,24,56,flee
+I try to open the cave and look inside,castle,3,8,explore
+"Can we reach an agreement, the wizard?",castle,20,95,negotiate
+I convince the innkeeper to join my cause in the dark,castle,5,89,attack
+Scare the villager into talking quickly,castle,9,49,intimidate
+I hit the wizard hard,forest,1,68,attack
+I fire an arrow at the wizard,village,14,86,attack
+Please help the villager,castle,3,42,help
+I flee the scene now,market,25,74,flee
+"Let us make a bargain, the merchant",tavern,16,93,negotiate
+Check inside the forest path quickly,castle,27,39,explore
+Steal from the priest in the dark,castle,1,11,steal
+Investigate the area,castle,18,7,explore
+I threaten the wizard to hand it over,mountain,6,8,intimidate
+I open the forest path and look inside,castle,6,40,explore
+"Retreat now, back away",village,3,35,flee
+I protect the dragon from harm,forest,21,76,help
+I hit the goblin hard slowly,market,1,6,attack
+I draw my sword and strike the merchant,mountain,2,56,attack
+Look around the door again,village,6,58,explore
+I swipe the jewel and hide it,village,22,95,steal
+Aid the merchant and share my supplies,forest,1,40,help
+I heal the wizard with a potion slowly,mountain,30,64,help
+I charm the bandit with kind words,dungeon,26,50,persuade
+I demand the merchant obey me or suffer with my sword,tavern,23,7,intimidate
+Look around the chest,tavern,23,35,explore
+Scare the bandit into talking,forest,2,99,intimidate
+I heal the merchant with a potion slowly,castle,11,71,help
+Escape from the priest,forest,9,27,flee
+I offer the guard a fair deal,castle,15,25,negotiate
+I explore beyond the cave quickly,castle,21,44,explore
+Fight the dragon to the death,market,18,79,attack
+Steal from the king with my sword,castle,4,99,steal
+I investigate the ruins,tavern,9,95,explore
+I retreat and escape through the tower slowly,dungeon,9,75,flee
+I search the ruins without a word,mountain,30,65,persuade
+Warn the merchant that they will suffer,village,5,46,intimidate
+Kill the guard,mountain,22,20,attack
+"Can we reach an agreement, the villager? quickly",market,30,6,negotiate
+I charm the wizard with kind words slowly,mountain,28,78,persuade
+Strike the goblin down,castle,1,33,attack
+I threaten the innkeeper to hand it over without a word,castle,29,39,intimidate
+I examine the tower closely quickly,castle,10,84,explore
+"What will you pay me, the goblin?",castle,30,46,negotiate
+Let me slash the wizard down again,mountain,26,52,attack
+"Hand it over or else, the villager",tavern,22,62,intimidate
+Attack the bandit! slowly,castle,7,100,attack
+I search the door carefully,tavern,29,43,explore
+Make a deal with the priest,dungeon,5,56,negotiate
+I investigate the tower,market,27,40,explore
+Strike the villager down again,forest,17,37,attack
+I glare at the wizard and growl a warning,mountain,6,25,intimidate
+Warn the villager that they will suffer,castle,5,32,intimidate
+Look around the tower in the dark,forest,16,9,explore
+I glare at the guard and growl a warning without a word,castle,5,84,intimidate
+I search the ruins,mountain,1,61,explore
+Talk the merchant into helping us,village,30,72,persuade
+Please help the guard,dungeon,21,21,help
+I really rob the priest while no one looks,dungeon,14,7,steal
+I help the innkeeper carry the load again,market,23,8,help
+"Please listen to reason, the villager",tavern,26,25,persuade
+"I get out of here, away from the guard carefully",dungeon,30,52,flee
+I explore beyond the cave,dungeon,8,98,explore
+Smash the bandit with my axe,mountain,7,69,attack
+I try to steal the gold from the villager,village,20,46,steal
+I retreat and escape through the tower,village,12,72,flee
+I glare at the bandit and growl a warning quickly,dungeon,24,58,intimidate
+Talk the king into helping us,forest,2,37,persuade
+Get away from the merchant,village,8,71,flee
+I rob the merchant while no one looks again,village,6,58,steal
+"Hand it over or else, the innkeeper",dungeon,29,55,intimidate
+Aid the merchant and share my supplies in the dark,dungeon,8,41,help
+Pickpocket the priest quietly,dungeon,2,18,steal
+Escape from the guard,castle,1,15,flee
+Pickpocket the dragon quietly without a word,market,17,61,steal
+"Let us make a bargain, the bandit quickly",castle,30,74,negotiate
+"I get out of here, away from the wizard",castle,29,100,flee
+I charge at the bandit and swing without a word,village,23,91,attack
+Get away from the king,dungeon,5,79,flee
+I charge at the dragon and swing without a word,village,19,25,attack
+"Can we reach an agreement, the innkeeper?",village,3,12,negotiate
+"Let us make a bargain, the merchant quickly",mountain,25,89,negotiate
+Check inside the door again,mountain,16,97,intimidate
+I hit the innkeeper hard with my sword,castle,17,5,attack
+I heal the priest with a potion,forest,9,27,help
+"How much for that, the merchant?",forest,16,7,negotiate
+Run!,village,29,93,flee
+"Let us trade, the dragon in the dark",dungeon,20,21,negotiate
+I really run away from the bandit in the dark,village,30,58,flee
+Investigate the area quickly,village,12,45,explore
+I quietly lift the keys from the wizard,forest,4,63,steal
+Strike the wizard down quickly,castle,26,6,attack
+Pickpocket the innkeeper quietly again,tavern,28,33,steal
+I assist the king with the wounds slowly,forest,17,22,help
+I flee the scene in the dark,forest,16,19,flee
+I retreat and escape through the door,castle,13,27,flee
+Steal from the dragon in the dark,tavern,1,21,steal
+I rescue the goblin,market,7,6,help
+Sneak and rob the priest,village,22,35,steal
+I try to steal the gold from the goblin,mountain,9,84,steal
+"Heal the dragon, kind friend without a word",forest,13,7,help
+"Retreat now, back away",forest,16,69,flee
+I cast a fireball at the king slowly,tavern,20,39,attack
+I quietly lift the keys from the innkeeper,mountain,29,100,steal
+I explore beyond the forest path carefully,market,3,43,explore
+Run!,forest,18,30,flee
+I really hit the priest hard now,mountain,15,14,attack
+Kill the guard slowly,castle,12,86,attack
+Investigate the area carefully,tavern,1,31,explore
+"Retreat now, back away",forest,19,60,flee
+I convince the king to join my cause,dungeon,8,66,persuade
+I charge at the villager and swing,tavern,2,40,attack
+I try to steal the gold from the priest now,dungeon,22,33,steal
+"Name your price, the wizard quickly",forest,6,37,attack
+"Retreat now, back away with my sword",mountain,25,8,flee
+Win over the bandit with kind words,market,28,90,persuade
+Check inside the chest,tavern,16,87,explore
+Let me slash the merchant down without a word,market,14,10,attack
+"I get out of here, away from the merchant",village,17,76,flee
+Let me slash the goblin down,dungeon,20,83,attack
+Aid the villager and share my supplies,dungeon,4,54,help
+I charge at the king and swing slowly,dungeon,26,16,attack
+Steal from the villager carefully,market,2,22,steal
+Check inside the ruins,village,6,88,explore
+I flee the scene now,mountain,21,65,flee
+Please help the goblin carefully,tavern,27,76,help
+I reason with the priest calmly with my sword,mountain,28,45,persuade
+I open the tower and look inside,forest,29,73,explore
+I cast a fireball at the king slowly,forest,14,62,attack
+"Please listen to reason, the priest",market,26,51,persuade
+Check inside the chest quickly,mountain,5,50,explore
+I draw my sword and strike the guard,village,4,19,attack
+I run away from the merchant,castle,24,36,explore
+Make a deal with the priest,tavern,22,24,negotiate
+"Take the gold and run, unseen",market,8,71,steal
+I hit the bandit hard now,forest,24,78,attack
+Attack the priest!,castle,17,94,attack
+I convince the bandit to join my cause,mountain,11,24,persuade
+I flee the scene,market,24,53,flee
+I rob the villager while no one looks,tavern,30,36,steal
+Check inside the ruins now,tavern,20,56,explore
+I retreat and escape through the chest carefully,dungeon,24,49,intimidate
+I flee the scene in the dark,tavern,9,17,flee
+Steal from the merchant,mountain,18,80,steal
+I try to steal the gold from the king in the dark,mountain,6,57,steal
+Threaten the innkeeper!,village,15,23,intimidate
+Save the dragon from danger slowly,forest,5,15,help
+I glare at the guard and growl a warning quickly,dungeon,16,88,intimidate
+I protect the guard from harm without a word,forest,22,38,help
+Convince the dragon to trust me carefully,market,30,63,persuade
+I reason with the bandit calmly,castle,9,52,persuade
+I try to steal the gold from the goblin carefully,mountain,5,20,steal
+"Take the gold and run, unseen",village,10,41,help
+"Name your price, the goblin without a word",tavern,16,7,negotiate
+Kill the dragon without a word,forest,8,55,attack
+I protect the dragon from harm now,tavern,4,21,help
+Scare the dragon into talking,market,27,74,intimidate
+Threaten the bandit!,village,16,35,intimidate
+"I get out of here, away from the guard",forest,21,50,flee
+I protect the goblin from harm,tavern,10,71,help
+Talk the villager into helping us in the dark,tavern,15,98,persuade
+I try to charm the guard with kind words,village,3,43,persuade
+I swipe the jewel and hide it in the dark,forest,12,81,steal
+Escape from the bandit,village,22,41,flee
+"I get out of here, away from the merchant",tavern,17,71,flee
+I scare the wizard with my blade drawn in the dark,village,17,65,intimidate
+I cast a fireball at the goblin again,market,14,98,attack
+I appeal to the honor of the king,mountain,10,21,persuade
+I threaten the villager to hand it over now,forest,26,46,intimidate
+Attack the king!,market,1,12,attack
+"Retreat now, back away slowly",tavern,29,69,negotiate
+Fight the goblin to the death without a word,castle,17,30,attack
+"Name your price, the wizard in the dark",tavern,21,35,negotiate
+Scare the bandit into talking,tavern,22,69,intimidate
+I attack the wizard carefully,castle,9,51,attack
+I fire an arrow at the king,castle,12,53,attack
+Run!,market,5,19,flee
+I walk into the door to look around,mountain,21,44,explore
+I draw my sword and strike the wizard,dungeon,26,25,attack
+Steal from the goblin in the dark,village,17,26,steal
+I really hit the bandit hard carefully,castle,3,46,attack
+I assist the bandit with the wounds,mountain,16,51,help
+I rescue the dragon,tavern,11,77,help
+I attack the king,tavern,2,71,attack
+Run!,village,20,84,flee
+I rescue the wizard,tavern,11,49,help
+"I get out of here, away from the wizard now",village,25,11,flee
+"Let us make a bargain, the goblin slowly",dungeon,7,35,negotiate
+I back off and run for my life again,tavern,4,99,flee
+I assist the villager with the wounds,dungeon,13,48,help
+I investigate the ruins,mountain,10,80,explore
+Look around the door,castle,8,86,explore
+I talk the merchant into letting us pass now,tavern,13,9,persuade
+I reason with the bandit calmly,village,6,36,persuade
+"Name your price, the villager without a word",tavern,23,57,negotiate
+I charm the goblin with kind words,tavern,9,60,persuade
+I reason with the villager calmly,castle,27,47,persuade
+Escape from the innkeeper,forest,15,64,attack
+I run away from the priest,village,12,98,flee
+I offer the priest a fair deal,castle,7,55,negotiate
+Let me slash the merchant down carefully,tavern,26,71,attack
+I retreat and escape through the cave,dungeon,2,34,flee
+I quietly lift the keys from the king,market,30,85,steal
+I walk into the ruins to look around now,mountain,8,58,explore
+I appeal to the honor of the merchant,tavern,21,91,persuade
+I heal the villager with a potion with my sword,mountain,7,90,help
+Talk the king into helping us,forest,4,10,explore
+"What will you pay me, the wizard?",mountain,17,6,negotiate
+I examine the ruins closely without a word,mountain,4,65,explore
+I talk the wizard into letting us pass with my sword,village,13,59,persuade
+I protect the innkeeper from harm slowly,castle,18,94,help
+Scare the bandit into talking,tavern,24,52,intimidate
+I try to assist the bandit with the wounds,village,16,35,help
+I really try to steal the gold from the priest slowly,mountain,20,23,steal
+I attack the innkeeper,village,24,45,attack
+I explore beyond the door,tavern,23,33,explore
+"I get out of here, away from the merchant",tavern,10,57,flee
+Search the door,market,3,26,explore
+I hit the merchant hard,forest,4,40,attack
+I back off and run for my life without a word,castle,22,68,flee
+Make a deal with the innkeeper with my sword,market,10,49,negotiate
+Save the wizard from danger,dungeon,12,91,help
+I attack the king slowly,dungeon,2,43,attack
+I charm the bandit with kind words,dungeon,9,100,persuade
+I propose a trade with the priest now,market,24,88,negotiate
+"Take the gold and run, unseen",village,2,92,steal
+"How much for that, the bandit?",mountain,11,6,negotiate
+I back off and run for my life,forest,28,49,flee
+I propose a trade with the guard,village,19,76,negotiate
+Make a deal with the wizard,market,20,15,negotiate
+Let me slash the innkeeper down in the dark,dungeon,5,97,attack
+Pickpocket the bandit quietly,mountain,8,50,steal
+"Please listen to reason, the priest again",mountain,5,58,persuade
+I run away from the bandit carefully,village,28,24,flee
+I walk into the forest path to look around,mountain,7,82,explore
+"Heal the bandit, kind friend again",dungeon,8,94,help
+I walk into the ruins to look around slowly,castle,13,79,explore
+I search the door carefully,mountain,24,50,explore
+I offer the merchant a fair deal,market,18,63,negotiate
+Strike the villager down with my sword,mountain,7,34,attack
+Search the door,market,12,80,explore
+Talk the bandit into helping us without a word,market,18,24,persuade
+"Please listen to reason, the dragon with my sword",village,6,70,persuade
+I explore beyond the tower in the dark,forest,30,52,explore
+I propose a trade with the bandit now,mountain,29,33,negotiate
+I reason with the merchant calmly,market,26,57,persuade
+"Hand it over or else, the wizard",forest,20,23,intimidate
+I swipe the jewel and hide it again,castle,14,26,steal
+I convince the dragon to join my cause now,mountain,14,20,persuade
+I examine the cave closely,village,29,64,explore
+"Retreat now, back away in the dark",tavern,27,33,flee
+I fire an arrow at the king,village,3,52,attack
+I examine the cave closely,mountain,17,55,explore
+I want to haggle with the bandit now,market,2,11,negotiate
+Save the guard from danger slowly,forest,4,86,help
+I fire an arrow at the wizard now,village,18,99,attack
+I convince the innkeeper to join my cause,forest,15,83,persuade
+"Name your price, the bandit",castle,17,5,steal
+I offer the merchant a fair deal quickly,tavern,22,12,negotiate
+"Retreat now, back away",market,30,56,flee
+I sneak behind the king and pick the pocket now,village,29,93,steal
+I talk the guard into letting us pass,mountain,10,85,persuade
+Talk the goblin into helping us carefully,dungeon,26,66,persuade
+I run away from the innkeeper in the dark,market,30,70,flee
+Investigate the area,forest,13,60,explore
+"Please listen to reason, the wizard quickly",mountain,5,12,persuade
+I quietly lift the keys from the villager,forest,24,64,steal
+"Retreat now, back away",tavern,5,11,flee
+I cast a fireball at the dragon,market,5,19,attack
+I try to steal the gold from the wizard now,market,25,28,steal
+I charge at the dragon and swing,castle,9,58,attack
+I propose a trade with the priest,castle,20,14,negotiate
+Please help the bandit,market,29,99,help
+Strike the dragon down slowly,castle,16,94,attack
+"I get out of here, away from the king again",village,10,13,flee
+I hit the goblin hard in the dark,castle,20,17,attack
+"How much for that, the villager?",dungeon,23,81,negotiate
+I walk into the cave to look around carefully,village,7,31,explore
+I propose a trade with the dragon,forest,23,85,negotiate
+Sneak and rob the merchant with my sword,tavern,24,98,steal
+I run away from the villager,dungeon,17,9,flee
+"How much for that, the king?",castle,27,78,negotiate
+I offer the goblin my food and aid quickly,forest,24,10,help
+Save the guard from danger,mountain,29,39,help
+Sneak and rob the wizard quickly,village,13,40,steal

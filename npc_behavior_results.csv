@@ -1,0 +1,5 @@
+model,accuracy,precision,recall,f1,cv_f1_5fold
+Gradient Boosting,0.9125,0.9158,0.9125,0.913,0.8867
+XGBoost,0.91,0.9113,0.91,0.9099,0.8828
+Random Forest,0.8925,0.8958,0.8925,0.8931,0.8829
+Decision Tree,0.8775,0.8767,0.8775,0.8767,0.8765

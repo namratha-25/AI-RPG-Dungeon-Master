@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1,cv_f1_5fold
+Logistic Regression,0.8062,0.7937,0.8062,0.7961,0.7589
+Random Forest,0.775,0.767,0.775,0.7704,0.7466
+XGBoost,0.75,0.7406,0.75,0.744,0.7139

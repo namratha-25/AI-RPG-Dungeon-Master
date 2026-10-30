@@ -1,0 +1,124 @@
+{
+ "world": {
+  "reputation": -5,
+  "town_alert": 12,
+  "dragon_stir": 0,
+  "dragon_awake": false,
+  "guards_hunting": false,
+  "gold": 103,
+  "turn": 3,
+  "location": "tavern"
+ },
+ "npcs": {
+  "Captain Aldric": {
+   "type": "guard",
+   "trust": 0.47000000000000003,
+   "fear": 0.30000000000000004,
+   "anger": 0.4,
+   "loyalty": 0.6499999999999999,
+   "greed": 0.2,
+   "hp": 88,
+   "alive": true
+  },
+  "Mira the Merchant": {
+   "type": "merchant",
+   "trust": 0.55,
+   "fear": 0.3,
+   "anger": 0.1,
+   "loyalty": 0.4,
+   "greed": 0.8,
+   "hp": 100,
+   "alive": true
+  },
+  "Father Joren": {
+   "type": "priest",
+   "trust": 0.7,
+   "fear": 0.2,
+   "anger": 0.05,
+   "loyalty": 0.8,
+   "greed": 0.05,
+   "hp": 100,
+   "alive": true
+  },
+  "Kest the Brigand": {
+   "type": "bandit",
+   "trust": 0.2,
+   "fear": 0.3,
+   "anger": 0.6,
+   "loyalty": 0.3,
+   "greed": 0.7,
+   "hp": 100,
+   "alive": true
+  },
+  "Lord Valen": {
+   "type": "noble",
+   "trust": 0.4,
+   "fear": 0.3,
+   "anger": 0.3,
+   "loyalty": 0.5,
+   "greed": 0.6,
+   "hp": 100,
+   "alive": true
+  },
+  "Old Tam": {
+   "type": "villager",
+   "trust": 0.6,
+   "fear": 0.5,
+   "anger": 0.1,
+   "loyalty": 0.5,
+   "greed": 0.2,
+   "hp": 100,
+   "alive": true
+  }
+ },
+ "player": {
+  "level": 1,
+  "deaths": 1,
+  "n_actions": 3,
+  "n_success": 2,
+  "counts": {
+   "combat": 1,
+   "stealth": 1,
+   "exploration": 0,
+   "dialogue": 1
+  }
+ },
+ "active_quests": [
+  "Slay the Goblin King",
+  "Spy on the Baron",
+  "Arena of Blood"
+ ],
+ "done_quests": [
+  "Peace Treaty"
+ ],
+ "short_term": [
+  {
+   "turn": 1,
+   "text": "I run away",
+   "npc": "Captain Aldric",
+   "intent": "flee",
+   "reaction": "ignore"
+  },
+  {
+   "turn": 2,
+   "text": "I bring a sword to strike at him",
+   "npc": "Captain Aldric",
+   "intent": "attack",
+   "reaction": "attack"
+  },
+  {
+   "turn": 3,
+   "text": "I offer a trade",
+   "npc": "Captain Aldric",
+   "intent": "negotiate",
+   "reaction": "negotiate"
+  }
+ ],
+ "long_term": [
+  {
+   "turn": 2,
+   "npc": "Captain Aldric",
+   "text": "you attacked Captain Aldric the guard in the tavern"
+  }
+ ]
+}

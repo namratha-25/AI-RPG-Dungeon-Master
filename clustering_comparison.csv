@@ -1,0 +1,4 @@
+algorithm,clusters,silhouette,davies_bouldin
+K-Means,4,0.7039,0.3931
+Hierarchical,4,0.7033,0.3954
+DBSCAN,4,0.7144,0.3854
